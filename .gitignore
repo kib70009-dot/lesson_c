@@ -29,6 +29,7 @@
 *.dylib
 
 # Executables
+.vscode
 bin/
 *.exe
 *.out
