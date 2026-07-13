@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+//Learn how to enter user input in C!
+
 int main(){
 
     int age = 0;
